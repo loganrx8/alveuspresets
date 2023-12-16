@@ -50,6 +50,62 @@ kaylatraining: *kaylas training spot*
 lindsaytraining: *lindsays training spot*
 fennroll: *fennroll spot*
 
+#Crow (Indoor)
+
+platform: *Pan to training platform*
+window: *Pan to upper crow window*
+water: *Pan to water bowl*
+top: *Pan to upper section of the indoor space*
+backcorner: *Pan to the back corner of the upper indoor space*
+outside: *Pan to the outer enclosure*
+home: *Pan home*
+entry: *Pan to the entryway*
+down: *Pan down to the floor*
+rightperch: *Pan to the right perch*
+backleftcorner: *Pan to the back left corner perch*
+crowsleep: *Pan to the back perch where the crows usually sleep*
+
+#Crow (Outdoor)
+
+backcorner: *pan to right corner perch in the back*
+platform: *pan to the training platform*
+door: *pan to the entryway*
+bench: *pan to the bench*
+water: *pan to the crows water dish*
+home: *pan home*
+corner: *pan to the corner perching*
+left: *pan to the left side of outdoor enclosure*
+right: *pan to the right of the enclosure*
+ground: *Pan to the center of the ground*
+treet: *Pan to the left upper tree*
+treeb: *Pan to the left tree*
+tree: *Show the entirety of the tree*
+platforminside: *pan to the platform in the indoor enclosure*
+
+#Marmoset (Outdoor)
+flaps: *pan to their flaps (doors)*
+domes: *pan to the outdoor domes*
+platformleft: *pan to the left platform*
+platformright: *pan to the right platform*
+backdoor: *pan to the back door leading to indoor enclosure*
+frontdoor: *pan to the entryway of the outdoor enclosure*
+ir: *pan to the ir light*
+below: *pan straight down to the ground*
+tire: *pan to the platform near the tire*
+home: *pan home*
+hose: *pan to the hose*
+topshelfl: *pan to the platform above the domes*
+bottomsshelfl: *pan to the platform below the domes*
+right: *pan to the right side of the outdoor enclosure*
+table: *pan to the training table*
+top: *pan to the top right platform area near the flaps*
+banan: *pan to banan the banana tree*
+bottomshelfr: (needs to be relocated) **
+topshelfr: (needs to be relocated) **
+rightpostb: *pan to the bottom right post platform*
+chins: *pan to top of the left post platform*
+
+
 #Marmoset (Indoor)
 
 right: *Pan to right side of the enclosure*
@@ -72,3 +128,29 @@ win3: *third window*
 win4: *right most window*
 down: *pan down to the floor*
 table: *pan to the marms table*
+
+
+#Parrots
+
+home: *pan home*
+door: *pan to the entryway of the enclosure*
+abovedoor: *pan to the upper entryway of the enclosure*
+littles: *pan to the littles tree*
+littlesw: *pan to the littles indoor window*
+littlest: *pan to the upper littles tree*
+littlesbowl: *pan to the littles water dish*
+littlesplatform: *pan to littles training platform*
+littles2: *pan to the left littles branches*
+littles2top: *pan to the upper left branches*
+littles2bottom: *pan to the lower left branches
+macaws: *pan to macaws tree*
+macawsw: *pan to macaws window*
+macawst: *pan to upper macaws tree*
+macawsb: *pan to lower macaws tree*
+macawsbowl: *pan to macaws water dish
+macawsplatform: *pan to macaws training platform*
+littlessleep: *pan to littles sleep spot*
+bothwindows: *pan to show both macaws and littles windows*
+littlestablet: *pan to littles tablet*
+macaws2: *second angle of macaws tree*
+macaws2bowl: *second macaws water dish*
