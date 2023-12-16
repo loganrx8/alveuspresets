@@ -1,0 +1,74 @@
+#Pasture
+
+home: *pan home*
+fence: *far fence* 
+insidebarn: *inside barn area
+backcorner: *fence backcorner*
+trailer: *pan to the trailer*
+grove: *pan to the right of the second barn*
+winniespot: *pan to winnies sleep spot next to the brush*
+trailerhay: *pan to the hay on the trailer* 
+fence2: *pan close fence*
+feedstall: *pan to floor hay**
+pool: *stompys pool*
+storm,sky,thunder,sky2: *Presets used during thunderstorms and sunsets/sunrises*
+right: *pan right of pool*
+pole: *pan left of pool*
+feeder: *pan to the feeder drop bin*
+feeddrop: *pan to the floor where the feed drops*
+winnie: *points to the floor*
+brush: *pasture brush*
+poolr: *pool right*
+squitchy: *cow brush*
+pooll: *pool left*
+preset: *pool*
+barn: *first barn*
+barn2 *2nd barn*
+
+#Foxes
+
+platform: *fox platform*
+door: *fox entry*
+den: *fox den*
+shade: *shade underneath platform*
+center: *center of the fox enclosure*
+bench: *loads bench*
+table: *loads table*
+hilltop: *top of den/hill*
+reed: *loads reeds spot*
+fenn: *loads fenns spot*
+platform2: *close up of platform*
+bench2: *zoomed out view of bench*
+left: *left side of fox enclosure*
+hillwide: *loads preset of the den/hill wide*
+hillright: *right of the hill
+insidedoor: *points camera towards the inside fox door*
+leftfence: *left fence of platform*
+treehouse: *platform tree*
+rampbelow: *below platform ramp*
+kaylatraining: *kaylas training spot*
+lindsaytraining: *lindsays training spot*
+fennroll: *fennroll spot*
+
+#Marmoset (Indoor)
+
+right: *Pan to right side of the enclosure*
+windows: *Pan to windows in the corner*
+home: *pan home*
+flaps: *pan to the outdoor flaps*
+domeleft: *pan to the left most dome*
+domeright: *pan to the right dome* 
+winr: *pan to the right window*
+left:*pan to left side of the enclosure*
+winl: *pan to the left most window*
+bowll: *pan to their bowl, left of the flaps*
+center: *center the cam*
+bridger: *pan to the right rope bridge*
+bridgel: *pan to the left rope bridge*
+bridgec: *pan to above door bridge*
+win1: *left most window*
+win2: *second window from the left*
+win3: *third window*
+win4: *right most window*
+down: *pan down to the floor*
+table: *pan to the marms table*
