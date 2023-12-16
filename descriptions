@@ -1,54 +1,52 @@
 #Pasture
 
 home: *pan home*
-fence: *far fence* 
-insidebarn: *inside barn area
-backcorner: *fence backcorner*
+fence: *pan far left fence* 
+insidebarn: *pan to inside barn area*
+backcorner: *Pan to far left fence back corner*
 trailer: *pan to the trailer*
 grove: *pan to the right of the second barn*
 winniespot: *pan to winnies sleep spot next to the brush*
 trailerhay: *pan to the hay on the trailer* 
 fence2: *pan close fence*
 feedstall: *pan to floor hay**
-pool: *stompys pool*
+pool: *pan to stompys pool*
 storm,sky,thunder,sky2: *Presets used during thunderstorms and sunsets/sunrises*
 right: *pan right of pool*
 pole: *pan left of pool*
 feeder: *pan to the feeder drop bin*
 feeddrop: *pan to the floor where the feed drops*
-winnie: *points to the floor*
-brush: *pasture brush*
-poolr: *pool right*
-squitchy: *cow brush*
-pooll: *pool left*
-preset: *pool*
-barn: *first barn*
-barn2 *2nd barn*
+winnie: *pan to the ground when winnie sticks her head through the gate to get more food*
+brush: *pan to winnies brush*
+poolr: *pan right of pool*
+pooll: *pan left of pool*
+barn: *pan to barn*
+barn2 *pan to the 2nd barn*
 
 #Foxes
 
-platform: *fox platform*
-door: *fox entry*
-den: *fox den*
-shade: *shade underneath platform*
-center: *center of the fox enclosure*
-bench: *loads bench*
-table: *loads table*
-hilltop: *top of den/hill*
-reed: *loads reeds spot*
-fenn: *loads fenns spot*
+platform: *pan to the fox platform*
+door: *pan towards fox entry*
+den: *pan towards fox den*
+shade: *pan to shade underneath platform*
+center: *pan center of the fox enclosure*
+bench: *pan to bench*
+table: *pan to table*
+hilltop: *pan's to top of den/hill*
+reed: *pan to reeds spot*
+fenn: *pan to fenns spot*
 platform2: *close up of platform*
 bench2: *zoomed out view of bench*
 left: *left side of fox enclosure*
-hillwide: *loads preset of the den/hill wide*
-hillright: *right of the hill
-insidedoor: *points camera towards the inside fox door*
-leftfence: *left fence of platform*
-treehouse: *platform tree*
-rampbelow: *below platform ramp*
-kaylatraining: *kaylas training spot*
-lindsaytraining: *lindsays training spot*
-fennroll: *fennroll spot*
+hillwide: *pan to the fox hill wide*
+hillright: *pan right of the hill*
+insidedoor: *pan camera towards the inside fox door*
+leftfence: *pan left fence of platform*
+treehouse: *pan to platform tree*
+rampbelow: *pan below platform ramp*
+kaylatraining: *pan to kaylas training spot*
+lindsaytraining: *pan to lindsays training spot*
+fennroll: *pan to fennroll's spot*
 
 #Crow (Indoor)
 
@@ -83,6 +81,7 @@ tree: *Show the entirety of the tree*
 platforminside: *pan to the platform in the indoor enclosure*
 
 #Marmoset (Outdoor)
+
 flaps: *pan to their flaps (doors)*
 domes: *pan to the outdoor domes*
 platformleft: *pan to the left platform*
@@ -100,11 +99,10 @@ right: *pan to the right side of the outdoor enclosure*
 table: *pan to the training table*
 top: *pan to the top right platform area near the flaps*
 banan: *pan to banan the banana tree*
-bottomshelfr: (needs to be relocated) **
-topshelfr: (needs to be relocated) **
+bottomshelfr: pan to bottom left shelf*
+topshelfr: *pan to top left shelf*
 rightpostb: *pan to the bottom right post platform*
 chins: *pan to top of the left post platform*
-
 
 #Marmoset (Indoor)
 
@@ -128,7 +126,6 @@ win3: *third window*
 win4: *right most window*
 down: *pan down to the floor*
 table: *pan to the marms table*
-
 
 #Parrots
 
